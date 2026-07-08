@@ -11,8 +11,8 @@ about it — all built with native Excel formulas and charts.
 
 ## 📸 Preview
 
-<img width="781" height="615" alt="Screenshot 2026-06-15 at 14 00 40" src="https://github.com/user-attachments/assets/c30205e4-a9ac-4269-91a7-3ce57386d6d5" />
 <img width="890" height="612" alt="Screenshot 2026-06-15 at 14 00 09" src="https://github.com/user-attachments/assets/692276fe-a810-4832-9860-f265be362ea6" />
+<img width="781" height="615" alt="Screenshot 2026-06-15 at 14 00 40" src="https://github.com/user-attachments/assets/c30205e4-a9ac-4269-91a7-3ce57386d6d5" />
 
 ---
 
